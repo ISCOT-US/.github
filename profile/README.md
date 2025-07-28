@@ -6,7 +6,7 @@
   
   <br>
   
-  <p><em>A non-profit organization dedicated to information security in Texas</em></p>
+  <p><em>A non-profit organization dedicated to information security</em></p>
   
   <br><br>
   
