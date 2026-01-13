@@ -8,7 +8,18 @@
   
   <p><em>A non-profit organization dedicated to information security</em></p>
   
-  <br><br>
+  <br>
+  
+  ## Our Projects
+  
+  We develop high-performance security tools and network utilities:
+  
+  - **Reverse Shells** - Written in Assembly for stealth and performance
+  - **Network Analysis Tools** - Traffic analysis utilities
+  - **High-Performance Proxies** - Proxy servers for security testing
+  - **Red Team Utilities** - Exploitation and penetration testing frameworks
+  - **SOC Tools** - Security Operations Center monitoring and detection systems
+  - **Embedded Security** - Firmware analysis and embedded system security tools
   
   ---
   
